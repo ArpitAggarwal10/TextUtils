@@ -5,7 +5,7 @@
 1. Run the git clone command to clone the project
 
 ```dotnetcli
-git clone https://github.com/mananaggarwal2001/textUtils.git
+git clone https://github.com/ArpitAggarwal10/TextUtils.git
 ```
 2. After cloning the project then run the command
 
@@ -15,4 +15,4 @@ npm start
 **Note:- Make Sure that you have node.js, git bash installed in your computer before running these commands.**
 
 ## Here is the live Preview of my project
-**[Live Preview](https://manan-textutil.netlify.app/)**
+**[Live Preview](https://textutils-topaz.vercel.app/)**
